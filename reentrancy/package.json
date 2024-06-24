@@ -1,0 +1,18 @@
+{
+	"name": "reentrancy",
+	"version": "1.0.0",
+	"description": "Demo of reentrancy attack",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "WTFPL",
+	"devDependencies": {
+		"@nomicfoundation/hardhat-toolbox": "^5.0.0",
+		"dotenv": "^16.4.5",
+		"hardhat": "^2.22.5",
+		"hardhat-tracer": "^3.0.1",
+		"web3": "^4.9.0"
+	}
+}
